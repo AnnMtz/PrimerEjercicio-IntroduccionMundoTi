@@ -7,11 +7,10 @@ nav {
 }
 
 .logo {
-  margin-right: 60%;
+  margin-right: 68%;
   height: 55%;
   width: 65px;
   margin-top: 12px;
-  margin-left: 10px;
 }
 
 .nav-items {
@@ -120,7 +119,8 @@ input {
   margin-bottom: 10px;
   border-radius: 10px;
   width: 90%;
-  padding: 8px;
+  padding: 12px;
+  font-size: 18px;
 }
 
 textarea {
@@ -133,4 +133,7 @@ textarea {
   width: 25%;
   margin-left: auto;
   margin-right: auto;
+  background: cornflowerblue;
+  color: white;
+  font-size: 20px;
 }
